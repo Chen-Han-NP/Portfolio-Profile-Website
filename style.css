@@ -336,16 +336,15 @@ body {
   
 
   .image-container img{
-    height: 45vh; 
+    height: 40vh; 
     margin-top: 20px; /* Added */
   }
 
 
   .image-container2 img{
-    height: 45vh;
+    height: 40vh;
     margin-top: 20px; /* Added */
   }
-
 
 
 
@@ -367,7 +366,6 @@ body {
       height: 200vh;
       text-align: center;
       background-color: #323232;
-
   }
 
 
@@ -382,7 +380,6 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-
   }
 
   .education-sub{
@@ -415,23 +412,19 @@ body {
     font-weight: lighter;
     font-stretch: expanded;
     letter-spacing: 2px;
-
   }
+
 
   .education-sub p span{
     line-height: 1em;
     font-size: 0.9em;
     color: rgb(228,219,196);
-
   }
 
 
 
 
-  
-
-
-  /* ------------------Home Page----------------*/
+  /* ------------------Skills Page----------------*/
 
   /* ------------------Home Page----------------*/
 
@@ -512,7 +505,6 @@ body {
     background-size: cover;
     flex-direction: row-reverse;
     text-align: none;
-    border-bottom: 5px solid black;
   }
 
 
@@ -524,8 +516,6 @@ body {
     justify-content: center;
     align-items: center;
 
-    border: 2px solid red;
-    
     width: 25vw;
     height: 100vh;
   }
@@ -689,12 +679,17 @@ body {
 
   .image-container img{
     margin-left: 10vw;
+    margin-top: 10px; /* Added */
   }
 
 
   .image-container2 img{
     margin-right: 5vw;
+    margin-top: 0; /* Added */
+    margin-bottom: 40px;
   }
+
+
 
 
 
