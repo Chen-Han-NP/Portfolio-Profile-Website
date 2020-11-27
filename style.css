@@ -737,6 +737,7 @@ body {
     width: 75vw;
     height: 75vh;
 
+
   }
   .leader-image-container img{
     width: 80%;
@@ -803,7 +804,7 @@ body {
 
 
   .dropbtn{
-    font-size: 20px;
+    font-size: 1.2vw;
     border-radius: 5px;
     margin-top: 0.9vw;
   } 
@@ -978,7 +979,8 @@ body {
 
 
   .intro-container h2, .interest-container h2{
-    font-size: 2.5vw;
+    
+    font-size: 4.5vh;
 
   }
 
@@ -991,7 +993,7 @@ body {
 
   .intro-container p{
     line-height: 2em;
-    font-size: 1vw;
+    font-size: 1.8vh;
   }
 
 
@@ -1004,7 +1006,7 @@ body {
     flex: 0 0 33.333333%;
     margin:10px 0px 20px 0px;
     line-height: 2em;
-    font-size: 1vw;
+    font-size: 1.8vh;
   }
   
 
@@ -1066,7 +1068,8 @@ body {
 
 
   .education-sub h2{
-    font-size: 2.5vw;
+    
+    font-size: 4.5vh;
   }
 
 
@@ -1078,7 +1081,7 @@ body {
 
   .education-sub p span{
     line-height: 2em;
-    font-size: 1vw;
+    font-size: 1.8vh;
 
   }
 
@@ -1101,7 +1104,7 @@ body {
 
 .skill-container h2{
   margin: 2vh 0px 0px 0px;
-  font-size: 40px;
+  font-size: 4.5vh;
   margin-left: 0;
 }
 
@@ -1120,7 +1123,7 @@ body {
 }
 
 .each-skill h6{
-  font-size: 1vw;
+  font-size: 1.8vh;
   margin: 10px 20px 0px 10px ;
   
   }
@@ -1173,7 +1176,7 @@ body {
 
 .achievement-sub h2{
   margin: 30px 0px 0px 0px;
-  font-size: 2.5vw;
+  font-size: 4.5vh;
   font-weight: bold;
   font-family: Alata;
   color: gold;
@@ -1188,7 +1191,7 @@ body {
 
 .achievement-sub p span{
   line-height: 2px;
-  font-size: 1vw;
+  font-size: 1.8vh;
   color: rgb(228,219,196);
 }
 
@@ -1235,6 +1238,8 @@ body {
   .leader-image{
     width: 50%;
     height: 80%;
+    
+  
 
   }
   .leader-image-container img{
