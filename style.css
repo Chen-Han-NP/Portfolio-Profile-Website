@@ -648,31 +648,7 @@ body {
     height: 80%;
   }
   
-  /* Next & previous buttons */
-  .prev, .next {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    margin-top: -22px;
-    padding: 16px;
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    transition: 0.6s ease;
-    border-radius: 0 3px 3px 0;
-    user-select: none;
-  }
-  
-  .next {
-    right: 0;
-    border-radius: 3px 0 0 3px;
-  }
-  
-  .prev:hover, .next:hover {
-    background-color: rgba(0,0,0,0.8);
-  }
-  
+
   .numbertext {
     color: rgb(228,219,196);
     font-size: 20px;
@@ -980,7 +956,7 @@ body {
 
   .intro-container h2, .interest-container h2{
     
-    font-size: 4.5vh;
+    font-size: 35px;
 
   }
 
@@ -993,7 +969,7 @@ body {
 
   .intro-container p{
     line-height: 2em;
-    font-size: 1.8vh;
+    font-size: 15px;
   }
 
 
@@ -1006,7 +982,7 @@ body {
     flex: 0 0 33.333333%;
     margin:10px 0px 20px 0px;
     line-height: 2em;
-    font-size: 1.8vh;
+    font-size: 18px;
   }
   
 
@@ -1069,7 +1045,7 @@ body {
 
   .education-sub h2{
     
-    font-size: 4.5vh;
+    font-size: 35px;
   }
 
 
@@ -1081,7 +1057,7 @@ body {
 
   .education-sub p span{
     line-height: 2em;
-    font-size: 1.8vh;
+    font-size: 15px;
 
   }
 
@@ -1104,7 +1080,7 @@ body {
 
 .skill-container h2{
   margin: 2vh 0px 0px 0px;
-  font-size: 4.5vh;
+  font-size: 35px;
   margin-left: 0;
 }
 
@@ -1123,7 +1099,7 @@ body {
 }
 
 .each-skill h6{
-  font-size: 1.8vh;
+  font-size: 18px;
   margin: 10px 20px 0px 10px ;
   
   }
@@ -1176,7 +1152,7 @@ body {
 
 .achievement-sub h2{
   margin: 30px 0px 0px 0px;
-  font-size: 4.5vh;
+  font-size: 35px;
   font-weight: bold;
   font-family: Alata;
   color: gold;
@@ -1191,15 +1167,11 @@ body {
 
 .achievement-sub p span{
   line-height: 2px;
-  font-size: 1.8vh;
+  font-size: 15px;
   color: rgb(228,219,196);
 }
 
 
-
-
-
-  /* Slide show */
 
   .slideshow {
     width: 50%;
