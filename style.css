@@ -377,6 +377,7 @@ body {
   }
 
 
+
   #education .education-container{
     min-height: 180vh;
     max-height: 180vh;
@@ -1182,15 +1183,11 @@ body {
   /* ------------------Education Page----------------*/
 
   #education{
-    display: flex;
-    flex-direction: column;
     align-items: center;
-    justify-content: center;
-    text-align: center;
-    background-color: #323232;
 
     height: 100vh;
     width: 100vw;
+
   }
 
 
@@ -1200,7 +1197,8 @@ body {
 
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+
+    
   }
 
 
@@ -1209,8 +1207,6 @@ body {
     min-width: 500px;
     max-width: 600px;
 
-    justify-content: left;
-    align-items: left;
   }
 
 
@@ -1282,14 +1278,7 @@ body {
 
 /* ------------------Computer Achievement Page----------------*/
 #achievement{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  width: 100vw;
   height: 100vh;
-  text-align: center;
-  background-color: #323232;
 
 }
 
@@ -1301,7 +1290,6 @@ body {
   min-width: 70vw;
   max-width: 70vw;
 
-  display: flex;
   flex-direction: row;
 
 }
@@ -1311,22 +1299,15 @@ body {
   width: 50%;
   min-height: 100vh;
   max-height: 100vh;
-  text-align: left;
 
-  display: flex;
-  flex-direction: column;
-  justify-content: left;
-  align-items: left;
   padding-left: 5vh;
+
 }
 
 
 .achievement-sub h2{
   margin: 30px 0px 0px 0px;
   font-size: 35px;
-  font-weight: bold;
-  font-family: Alata;
-  color: gold;
 }
 
 
@@ -1339,9 +1320,7 @@ body {
 .achievement-sub p span{
   line-height: 2px;
   font-size: 15px;
-  color: rgb(228,219,196);
 }
-
 
 
   .slideshow {
@@ -1368,14 +1347,10 @@ body {
   /* ------------------Computer Leadership Page----------------*/
   
   #leadership{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     justify-content: center;
     width: 100vw;
     height: 100vh;
-    text-align: center;
-    background-color: #323232;
+
   }
 
   .leadership-container{
@@ -1385,9 +1360,8 @@ body {
     min-width: 70vw;
     max-width: 70vw;
   
-    display: flex;
     flex-direction: row;
-  
+
   }
   
   
@@ -1408,9 +1382,6 @@ body {
   .leadership-sub h2{
     margin: 30px 0px 0px 0px;
     font-size: 35px;
-    font-weight: bold;
-    font-family: Alata;
-    color: gold;
   }
   
   
@@ -1423,7 +1394,6 @@ body {
   .leadership-sub p span{
     line-height: 2px;
     font-size: 15px;
-    color: rgb(228,219,196);
   }
   
 
@@ -1431,9 +1401,9 @@ body {
     width: 40vw;
     height: 80vh;
     
-  
-
   }
+
+
   .leader-image-container img{
     height: 70%;
     width: 70%;
@@ -1450,7 +1420,7 @@ body {
     width: 100vw;
     height: 100vh;
     text-align: center;
-    background-color: #323232;
+
   }
 
 
@@ -1461,7 +1431,6 @@ body {
     min-width: 70vw;
     max-width: 70vw;
   
-    display: flex;
     flex-direction: row;
 
   }
@@ -1470,15 +1439,16 @@ body {
     display: block;
     width: 40vw;
     height: 80vh;
-    
-
+  
   }
+
+
   .project-image-container img{
     height: 100%;
     width: 100%;
     
-
   }
+
 
   .project-sub{
     width: 100vw;
@@ -1492,35 +1462,26 @@ body {
     align-items: left;
     padding-left: 5vh;
     
-
   }
   
   
   .project-sub h2{
     margin: 30px 0px 0px 0px;
     font-size: 35px;
-    font-weight: bold;
-    font-family: Alata;
-    color: gold;
   }
   
   
   .project-sub h5{
     font-size: 15px;
-    color: rgb(190,209,156);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: lighter;
-    font-stretch: expanded;
-    letter-spacing: 2px;
   }
   
   
   .project-sub p span{
     font-size: 15px;
-    color: rgb(228,219,196);
   }
 
   
+
   /* ------------------Computer Testimonial Page----------------*/
 
   #testimonial{
@@ -1531,16 +1492,12 @@ body {
     width: 100vw;
     height: 100vh;
     text-align: center;
-    background-color: #323232;
 
   }
 
   #testimonial h2{
     margin: 30px 0px 0px 0px;
     font-size: 35px;
-    font-weight: bold;
-    font-family: Alata;
-    color: gold;
   }
 
   .testimonial-container{
@@ -1550,7 +1507,6 @@ body {
     min-width: 70vw;
     max-width: 70vw;
     
-    display: flex;
     flex-direction: row;
 
   }
@@ -1560,14 +1516,14 @@ body {
     width: 40vw;
     height: 80vh;
     padding: 20px;
-    
 
   }
+
+
   .testimonial-image-container img{
     height: 100%;
     width: 100%;
     
-
   }
 
 
