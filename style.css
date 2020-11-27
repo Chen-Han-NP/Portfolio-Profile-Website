@@ -523,7 +523,7 @@ body {
   .progress-border{
     margin: 18px 0 0 0 ;
     height: 5px;  /* Can be anything */
-    width: 60%;
+    width: 55%;
     position: relative;
     -moz-border-radius: 25px;
     -webkit-border-radius: 25px;
@@ -1105,7 +1105,7 @@ body {
   }
 
 .progress-border{
-  width: 75%;
+  width: 65%;
 }
 
 
