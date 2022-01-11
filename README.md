@@ -1,4 +1,5 @@
 ID Assignment 1 - Designing my own Portfolio website
+Link: https://chen-han-np.github.io/ID_S10202961_Chen-Han_Assg1_website/
 
 This website is designed to present myself with every neccessary informations to get hired by potential recruiters.
 
