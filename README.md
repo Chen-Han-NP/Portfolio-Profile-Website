@@ -1,7 +1,8 @@
 ID Assignment 1 - Designing my own Portfolio website
-Link: https://chen-han-np.github.io/ID_S10202961_Chen-Han_Assg1_website/
+Link: https://chen-han-np.github.io/Portfolio-Profile-Website/
 
 This website is designed to present myself with every neccessary informations to get hired by potential recruiters.
+<img width="1426" alt="Screenshot 2022-12-15 at 11 31 26 AM" src="https://user-images.githubusercontent.com/73086331/207766063-188f8736-167c-48ea-86a0-984c18ea6fa4.png">
 
 Design Process
 - I want to make this website a unique page to sell myself to all the potential recruiters to hire me. 
