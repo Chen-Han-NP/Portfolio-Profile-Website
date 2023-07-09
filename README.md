@@ -1,5 +1,5 @@
 ## ID Assignment 1 - Designing my own Portfolio website
-## GitHub Page Link: https://chen-han-np.github.io/Portfolio-Profile-Website/
+## GitHub Page Link: https://chen-han-tx.github.io/Portfolio-Profile-Website/
 
 <img width="1426" alt="Screenshot 2022-12-15 at 11 31 26 AM" src="https://user-images.githubusercontent.com/73086331/207766063-188f8736-167c-48ea-86a0-984c18ea6fa4.png">
 
